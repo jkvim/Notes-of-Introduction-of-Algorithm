@@ -1,1 +1,3 @@
-# Notes-of-Introduction-of-Algorithm
+Notes of Introduction of Algorithm
+=====
+1. [Index of Appendix](./index-of-appendix.md)
